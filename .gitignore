@@ -1,0 +1,13 @@
+# 生成ファイル
+emaxis_all.csv
+nasdaq100_raw.csv
+nasdaq100_izanami.csv
+
+# ローカルバックアップ
+*.bk
+
+# OS / エディタ
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
